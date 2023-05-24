@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.InstallLog
+   assemblypath = D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.exe
+Installing service lab3-bai3...
+Service lab3-bai3 has been successfully installed.
+Creating EventLog source lab3-bai3 in log Application...
+Committing assembly 'D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.InstallLog
+   assemblypath = D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.exe

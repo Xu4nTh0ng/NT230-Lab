@@ -1,0 +1,10 @@
+D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.exe.config
+D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.exe
+D:\lab3-bai3\lab3-bai3\bin\Debug\lab3-bai3.pdb
+D:\lab3-bai3\lab3-bai3\obj\Debug\lab3-bai3.csproj.AssemblyReference.cache
+D:\lab3-bai3\lab3-bai3\obj\Debug\lab3-bai3.csproj.SuggestedBindingRedirects.cache
+D:\lab3-bai3\lab3-bai3\obj\Debug\lab3_bai3.ProjectInstaller.resources
+D:\lab3-bai3\lab3-bai3\obj\Debug\lab3-bai3.csproj.GenerateResource.cache
+D:\lab3-bai3\lab3-bai3\obj\Debug\lab3-bai3.csproj.CoreCompileInputs.cache
+D:\lab3-bai3\lab3-bai3\obj\Debug\lab3-bai3.exe
+D:\lab3-bai3\lab3-bai3\obj\Debug\lab3-bai3.pdb

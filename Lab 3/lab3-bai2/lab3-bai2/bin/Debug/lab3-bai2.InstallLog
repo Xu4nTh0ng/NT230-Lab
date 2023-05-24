@@ -1,0 +1,21 @@
+﻿Installing assembly 'D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.InstallLog
+   assemblypath = D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.exe
+Installing service lab3-bai2...
+Service lab3-bai2 has been successfully installed.
+Creating EventLog source lab3-bai2 in log Application...
+Committing assembly 'D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.InstallLog
+   assemblypath = D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.exe
+Uninstalling assembly 'D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.InstallLog
+   assemblypath = D:\lab3-bai2\lab3-bai2\bin\Debug\lab3-bai2.exe
+Removing EventLog source lab3-bai2.
+Service lab3-bai2 is being removed from the system...
+Service lab3-bai2 was successfully removed from the system.
